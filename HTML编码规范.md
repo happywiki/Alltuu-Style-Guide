@@ -9,7 +9,7 @@
 - [建议]在 html 标签上设置正确的 lang 属性
 - [建议]考虑到移动端的问题，建议加入viewport,并设置content为width=device-width,initial-scale=1
 - 统一编码为UTF-8, 使用 <meta charset="UTF-8" /> 指定文件编码
-- 所有页面必须有 "<title>"
+- 所有页面必须有 "< title >"
 - 考虑到SEO优化问题,页面尽量加入keywords和description
 - 引入CSS时必须指明rel="stylesheet"
 - [建议] 引入 CSS 和 JavaScript 时无须指明 type 属性
